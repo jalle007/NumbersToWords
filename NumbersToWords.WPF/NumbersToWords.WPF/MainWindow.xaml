@@ -1,0 +1,10 @@
+﻿<Window x:Class="NumbersToWords.WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="627">
+  <Grid Background="Blue">
+    <TextBox Height="24" HorizontalAlignment="Left" Margin="100,40,0,0" Name="textBox1" VerticalAlignment="Top" Width="120" />
+    <Label Content="Value" Height="28" HorizontalAlignment="Left" Margin="24,40,0,0" Name="label1" VerticalAlignment="Top" Foreground="#FFEBDFE5" />
+    <Button Content="Convert" Height="24" HorizontalAlignment="Left" Margin="268,40,0,0" Name="button1" VerticalAlignment="Top" Width="76" Foreground="#FF1D0808" Click="button1_Click" />
+  </Grid>
+</Window>

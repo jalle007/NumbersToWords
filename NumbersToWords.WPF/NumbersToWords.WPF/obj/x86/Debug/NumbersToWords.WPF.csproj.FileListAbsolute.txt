@@ -1,0 +1,12 @@
+e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WPF\NumbersToWords.WPF\bin\Debug\NumbersToWords.WPF.exe.config
+e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WPF\NumbersToWords.WPF\bin\Debug\NumbersToWords.WPF.exe
+e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WPF\NumbersToWords.WPF\bin\Debug\NumbersToWords.WPF.pdb
+e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WPF\NumbersToWords.WPF\obj\x86\Debug\MainWindow.baml
+e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WPF\NumbersToWords.WPF\obj\x86\Debug\MainWindow.g.cs
+e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WPF\NumbersToWords.WPF\obj\x86\Debug\App.g.cs
+e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WPF\NumbersToWords.WPF\obj\x86\Debug\NumbersToWords.WPF_MarkupCompile.cache
+e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WPF\NumbersToWords.WPF\obj\x86\Debug\NumbersToWords.WPF.g.resources
+e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WPF\NumbersToWords.WPF\obj\x86\Debug\NumbersToWords.WPF.Properties.Resources.resources
+e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WPF\NumbersToWords.WPF\obj\x86\Debug\NumbersToWords.WPF.csproj.GenerateResource.cache
+e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WPF\NumbersToWords.WPF\obj\x86\Debug\NumbersToWords.WPF.exe
+e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WPF\NumbersToWords.WPF\obj\x86\Debug\NumbersToWords.WPF.pdb

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="NumbersToWords.WCF.ConversionService" CodeBehind="ConversionService.svc.cs" %>

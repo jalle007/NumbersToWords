@@ -1,5 +1,6 @@
-E:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WCF\NumbersToWords.WCF\bin\NumbersToWords.WCF.dll.config
-E:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WCF\NumbersToWords.WCF\bin\NumbersToWords.WCF.dll
-E:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WCF\NumbersToWords.WCF\bin\NumbersToWords.WCF.pdb
-E:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WCF\NumbersToWords.WCF\obj\Debug\NumbersToWords.WCF.dll
-E:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WCF\NumbersToWords.WCF\obj\Debug\NumbersToWords.WCF.pdb
+e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WCF\NumbersToWords.WCF\bin\NumbersToWords.WCF.dll.config
+e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WCF\NumbersToWords.WCF\bin\NumbersToWords.WCF.dll
+e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WCF\NumbersToWords.WCF\bin\NumbersToWords.WCF.pdb
+e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WCF\NumbersToWords.WCF\obj\Debug\NumbersToWords.WCF.dll
+e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WCF\NumbersToWords.WCF\obj\Debug\NumbersToWords.WCF.pdb
+e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WCF\NumbersToWords.WCF\obj\Debug\NumbersToWords.WCF.csprojAssemblyReference.cache

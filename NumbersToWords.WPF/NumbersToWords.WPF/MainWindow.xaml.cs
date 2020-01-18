@@ -30,14 +30,12 @@ namespace NumbersToWords.WPF
             //creating the object of WCF service client     
             ServiceReference1.ConversionServiceClient service = new ServiceReference1.ConversionServiceClient();
 
-            //assigning the input values to the variables     
-            float value = float.Parse(textBox1.Text);
 
             //assigning the output value from service Response     
-            string result = service.Convert(value);
+            ServiceReference1.Response response = service.Convert(textBox1.Text);
 
             //assigning the output value to the lable to show user     
-            MessageBox.Show("" + result + " $");
+            label2.Text += response.error != null ? response.error : response.result;
         }
     }
 }

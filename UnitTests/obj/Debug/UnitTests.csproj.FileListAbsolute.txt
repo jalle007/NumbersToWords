@@ -1,0 +1,16 @@
+E:\Projects\TESTS\careers@qoniac.com\NumbersToWords\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Projects\TESTS\careers@qoniac.com\NumbersToWords\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Projects\TESTS\careers@qoniac.com\NumbersToWords\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Projects\TESTS\careers@qoniac.com\NumbersToWords\UnitTests\bin\Debug\UnitTests.dll
+E:\Projects\TESTS\careers@qoniac.com\NumbersToWords\UnitTests\bin\Debug\UnitTests.pdb
+E:\Projects\TESTS\careers@qoniac.com\NumbersToWords\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Projects\TESTS\careers@qoniac.com\NumbersToWords\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Projects\TESTS\careers@qoniac.com\NumbersToWords\UnitTests\bin\Debug\NumbersToWords.WCF.dll
+E:\Projects\TESTS\careers@qoniac.com\NumbersToWords\UnitTests\bin\Debug\NumbersToWords.WCF.pdb
+E:\Projects\TESTS\careers@qoniac.com\NumbersToWords\UnitTests\bin\Debug\NumbersToWords.WCF.dll.config
+E:\Projects\TESTS\careers@qoniac.com\NumbersToWords\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Projects\TESTS\careers@qoniac.com\NumbersToWords\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Projects\TESTS\careers@qoniac.com\NumbersToWords\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+E:\Projects\TESTS\careers@qoniac.com\NumbersToWords\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+E:\Projects\TESTS\careers@qoniac.com\NumbersToWords\UnitTests\obj\Debug\UnitTests.dll
+E:\Projects\TESTS\careers@qoniac.com\NumbersToWords\UnitTests\obj\Debug\UnitTests.pdb

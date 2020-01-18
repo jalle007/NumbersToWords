@@ -10,3 +10,4 @@ e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WPF\NumbersTo
 e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WPF\NumbersToWords.WPF\obj\x86\Debug\NumbersToWords.WPF.csproj.GenerateResource.cache
 e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WPF\NumbersToWords.WPF\obj\x86\Debug\NumbersToWords.WPF.exe
 e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WPF\NumbersToWords.WPF\obj\x86\Debug\NumbersToWords.WPF.pdb
+e:\Projects\TESTS\careers@qoniac.com\NumbersToWords\NumbersToWords.WPF\NumbersToWords.WPF\obj\x86\Debug\NumbersToWords.WPF.csprojAssemblyReference.cache

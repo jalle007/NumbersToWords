@@ -12,12 +12,17 @@ namespace NumbersToWords.WCF
     public class ConversionService : IConversionService
     {
 
-        public string Convert(float value)
+     
+        public Response Convert(string value)
         {
-            
-            return "ok";
-        }
+            var result = Convertor.Convert(value);
 
+            return new Response()
+            {
+                result = result,
+                error = (result == null ? "Wrong input format." :  null)
+            };
+        }
     }
 
 }

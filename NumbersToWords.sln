@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersToWords.WPF", "Numbe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersToWords.WCF", "NumbersToWords.WCF\NumbersToWords.WCF\NumbersToWords.WCF.csproj", "{83C4DB45-9E1A-4493-8AB0-869488AD4F12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{ED97001C-669C-42B3-A9BF-FAD926B86736}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,14 @@ Global
 		{83C4DB45-9E1A-4493-8AB0-869488AD4F12}.Release|Any CPU.Build.0 = Release|Any CPU
 		{83C4DB45-9E1A-4493-8AB0-869488AD4F12}.Release|x86.ActiveCfg = Release|Any CPU
 		{83C4DB45-9E1A-4493-8AB0-869488AD4F12}.Release|x86.Build.0 = Release|Any CPU
+		{ED97001C-669C-42B3-A9BF-FAD926B86736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED97001C-669C-42B3-A9BF-FAD926B86736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED97001C-669C-42B3-A9BF-FAD926B86736}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ED97001C-669C-42B3-A9BF-FAD926B86736}.Debug|x86.Build.0 = Debug|Any CPU
+		{ED97001C-669C-42B3-A9BF-FAD926B86736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED97001C-669C-42B3-A9BF-FAD926B86736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED97001C-669C-42B3-A9BF-FAD926B86736}.Release|x86.ActiveCfg = Release|Any CPU
+		{ED97001C-669C-42B3-A9BF-FAD926B86736}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

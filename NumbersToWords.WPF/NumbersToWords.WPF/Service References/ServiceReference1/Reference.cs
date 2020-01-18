@@ -9,17 +9,80 @@
 //------------------------------------------------------------------------------
 
 namespace NumbersToWords.WPF.ServiceReference1 {
+    using System.Runtime.Serialization;
+    using System;
     
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
+    [System.Runtime.Serialization.DataContractAttribute(Name="Response", Namespace="http://schemas.datacontract.org/2004/07/NumbersToWords.WCF")]
+    [System.SerializableAttribute()]
+    public partial class Response : object, System.Runtime.Serialization.IExtensibleDataObject, System.ComponentModel.INotifyPropertyChanged {
+        
+        [System.NonSerializedAttribute()]
+        private System.Runtime.Serialization.ExtensionDataObject extensionDataField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private string errorField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private string resultField;
+        
+        [global::System.ComponentModel.BrowsableAttribute(false)]
+        public System.Runtime.Serialization.ExtensionDataObject ExtensionData {
+            get {
+                return this.extensionDataField;
+            }
+            set {
+                this.extensionDataField = value;
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public string error {
+            get {
+                return this.errorField;
+            }
+            set {
+                if ((object.ReferenceEquals(this.errorField, value) != true)) {
+                    this.errorField = value;
+                    this.RaisePropertyChanged("error");
+                }
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public string result {
+            get {
+                return this.resultField;
+            }
+            set {
+                if ((object.ReferenceEquals(this.resultField, value) != true)) {
+                    this.resultField = value;
+                    this.RaisePropertyChanged("result");
+                }
+            }
+        }
+        
+        public event System.ComponentModel.PropertyChangedEventHandler PropertyChanged;
+        
+        protected void RaisePropertyChanged(string propertyName) {
+            System.ComponentModel.PropertyChangedEventHandler propertyChanged = this.PropertyChanged;
+            if ((propertyChanged != null)) {
+                propertyChanged(this, new System.ComponentModel.PropertyChangedEventArgs(propertyName));
+            }
+        }
+    }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
     [System.ServiceModel.ServiceContractAttribute(ConfigurationName="ServiceReference1.IConversionService")]
     public interface IConversionService {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IConversionService/Convert", ReplyAction="http://tempuri.org/IConversionService/ConvertResponse")]
-        string Convert(float value);
+        NumbersToWords.WPF.ServiceReference1.Response Convert(string value);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IConversionService/Convert", ReplyAction="http://tempuri.org/IConversionService/ConvertResponse")]
-        System.Threading.Tasks.Task<string> ConvertAsync(float value);
+        System.Threading.Tasks.Task<NumbersToWords.WPF.ServiceReference1.Response> ConvertAsync(string value);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -49,11 +112,11 @@ namespace NumbersToWords.WPF.ServiceReference1 {
                 base(binding, remoteAddress) {
         }
         
-        public string Convert(float value) {
+        public NumbersToWords.WPF.ServiceReference1.Response Convert(string value) {
             return base.Channel.Convert(value);
         }
         
-        public System.Threading.Tasks.Task<string> ConvertAsync(float value) {
+        public System.Threading.Tasks.Task<NumbersToWords.WPF.ServiceReference1.Response> ConvertAsync(string value) {
             return base.Channel.ConvertAsync(value);
         }
     }
